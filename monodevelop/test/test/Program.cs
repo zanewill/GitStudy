@@ -8,6 +8,7 @@ namespace test
 		{
 			Console.WriteLine ("Hello World!");
 			Console.WriteLine ("Git Study");
+			Console.WriteLine ("Git Study");
 			Console.ReadKey ();
 		}
 	}
