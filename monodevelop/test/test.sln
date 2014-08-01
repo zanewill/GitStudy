@@ -1,47 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		MONO26-Debug|Any CPU = MONO26-Debug|Any CPU
-		MONO26-Release|Any CPU = MONO26-Release|Any CPU
-		MONO28-Debug|Any CPU = MONO28-Debug|Any CPU
-		MONO28-Release|Any CPU = MONO28-Release|Any CPU
-		NET35-Debug|Any CPU = NET35-Debug|Any CPU
-		NET35-Release|Any CPU = NET35-Release|Any CPU
-		NET40-Debug|Any CPU = NET40-Debug|Any CPU
-		NET40-Release|Any CPU = NET40-Release|Any CPU
-		NET45-Debug|Any CPU = NET45-Debug|Any CPU
-		NET45-Release|Any CPU = NET45-Release|Any CPU
-		SL40-Debug|Any CPU = SL40-Debug|Any CPU
-		SL40-Release|Any CPU = SL40-Release|Any CPU
-		SL50-Debug|Any CPU = SL50-Debug|Any CPU
-		SL50-Release|Any CPU = SL50-Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.MONO26-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.MONO26-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.MONO28-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.MONO28-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.MONO28-Release|Any CPU.Build.0 = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET35-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET35-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET40-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET40-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET45-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET45-Debug|Any CPU.Build.0 = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.NET45-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.SL40-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.SL40-Release|Any CPU.ActiveCfg = Release|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.SL50-Debug|Any CPU.ActiveCfg = Debug|x86
-		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.SL50-Release|Any CPU.ActiveCfg = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.Debug|x86.ActiveCfg = Debug|x86
+		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.Debug|x86.Build.0 = Debug|x86
+		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.Release|x86.ActiveCfg = Release|x86
+		{4C49D64D-4D2F-4AF1-8143-00D8A9EE9941}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = test\test.csproj
